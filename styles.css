@@ -29,6 +29,10 @@ h3 {
     margin: 0;
 }
 
+.contact-me-h3 {
+    padding-bottom: 50px;
+}
+
 .top-container {
     background-color: #222831;
     padding-top: 100px;
